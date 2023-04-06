@@ -1,11 +1,12 @@
 
 
+{{-- ////////////////////Here we are send title to layout.header//////////////////// --}}
+@include('layout.header')
 
-@extends('layout.header')
+{{-- ////////////////////End Here we are send title to layout.header//////////////////// --}}
 
-@section('pageTitle', 'KSR Home')
 
-@section('content')
-    <!-- Your main content goes here -->
-@endsection
+@include('layout.carousal')
+@include('layout.footer')
+
 
