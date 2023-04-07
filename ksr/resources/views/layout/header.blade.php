@@ -53,6 +53,12 @@
             <li class="nav-item">
               <a class="nav-link" href="#">Contact</a>
             </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{Route('pdf2',['is_clicked'=>false])}}">Create PDF</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{Route('pdf3')}}">Create PDF</a>
+            </li>
           </ul>
         </div>
       </nav>

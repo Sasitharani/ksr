@@ -1,6 +1,6 @@
 <nav class="navbar navbar-dark bg-dark mt-4">
   <span class="navbar-brand mb-0 h1"></span>
-  <span class="text-white">&copy; KSR Electricals</span>
+  <span class="text-white">&copy; 2023 KSR Electricals</span>
 </nav>
    <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
